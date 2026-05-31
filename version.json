@@ -1,0 +1,16 @@
+{
+  "manifestVersion": 1,
+  "product": "QuoteGrid",
+  "generatedAt": "2026-05-29T00:00:00Z",
+  "releases": [
+    {
+      "hardwareVersion": "QG-HW-3216-HUB75DMA-GENERIC",
+      "firmwareVersion": "QG-FW-1.0.1",
+      "firmwareFileName": "QG-HW-3216-HUB75DMA-GENERIC-QG-FW-1.0.1.bin",
+      "firmwareUrl": "https://github.com/Jasongoldcoast/quotegrid-firmware-releases/releases/download/QG-FW-1.0.1/QG-HW-3216-HUB75DMA-GENERIC-QG-FW-1.0.1.bin",
+      "sha256": "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef",
+      "sizeBytes": 1234567,
+      "releaseNotes": "OTA check test release"
+    }
+  ]
+}
