@@ -5,12 +5,12 @@
   "releases": [
     {
       "hardwareVersion": "QG-HW-3216-HUB75DMA-GENERIC",
-      "firmwareVersion": "QG-FW-1.0.2",
-      "firmwareFileName": "QG-HW-3216-HUB75DMA-GENERIC-QG-FW-1.0.2.bin",
-      "firmwareUrl": "https://github.com/Jasongoldcoast/quotegrid-firmware-releases/releases/download/QG-FW-1.0.2/QG-HW-3216-HUB75DMA-GENERIC-QG-FW-1.0.2.bin",
-      "sha256": "255A7416F7B6730645BD748D4A37B80CAEBBF6C3A2832EFCE1AC51BD37DD8283",
-      "sizeBytes": 1070032,
-      "releaseNotes": "OTA install test build. Displays an asterisk after ticker symbols on the market display."
+      "firmwareVersion": "QG-FW-1.0.3",
+      "firmwareFileName": "QG-HW-3216-HUB75DMA-GENERIC-QG-FW-1.0.3.bin",
+      "firmwareUrl": "https://github.com/Jasongoldcoast/quotegrid-firmware-releases/releases/download/QG-FW-1.0.3/QG-HW-3216-HUB75DMA-GENERIC-QG-FW-1.0.3.bin",
+      "sha256": "9A09AF67E095A136E994584FD5E3418156356D89E3330ACEE354F208ED42DFA1",
+      "sizeBytes": 1076896,
+      "releaseNotes": "OTA UI test build. Includes updated OTA install UI feedback and displays an asterisk after ticker symbols on the market display."
     }
   ]
 }
