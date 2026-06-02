@@ -1,16 +1,16 @@
 {
   "manifestVersion": 1,
   "product": "QuoteGrid",
-  "generatedAt": "2026-06-01T00:00:00Z",
+  "generatedAt": "2026-06-02T10:56:50.514552Z",
   "releases": [
     {
-      "hardwareVersion": "QG-HW-3216-HUB75DMA-GENERIC",
-      "firmwareVersion": "QG-FW-1.0.3",
-      "firmwareFileName": "QG-HW-3216-HUB75DMA-GENERIC-QG-FW-1.0.3.bin",
-      "firmwareUrl": "https://github.com/Jasongoldcoast/quotegrid-firmware-releases/releases/download/QG-FW-1.0.3/QG-HW-3216-HUB75DMA-GENERIC-QG-FW-1.0.3.bin",
-      "sha256": "9A09AF67E095A136E994584FD5E3418156356D89E3330ACEE354F208ED42DFA1",
-      "sizeBytes": 1076896,
-      "releaseNotes": "OTA UI test build. Includes updated OTA install UI feedback and displays an asterisk after ticker symbols on the market display."
+      "hardwareVersion": "QG-HW-FM6124-ROWUNK-A",
+      "firmwareVersion": "QG-FW-1.0.6",
+      "firmwareFileName": "QG-HW-FM6124-ROWUNK-A-QG-FW-1.0.6.bin",
+      "firmwareUrl": "https://github.com/Jasongoldcoast/quotegrid-firmware-releases/releases/download/QG-FW-1.0.6/QG-HW-FM6124-ROWUNK-A-QG-FW-1.0.6.bin",
+      "sha256": "126808236a916d50684c747a765dc79df1a5dd3092ae3f6078e0023800518781",
+      "sizeBytes": 1076880,
+      "releaseNotes": "Visible chip markings: FM6124 + 5F941300. Row driver not confirmed."
     }
   ]
 }
